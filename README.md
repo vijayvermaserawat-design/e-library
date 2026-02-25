@@ -102,3 +102,5 @@ footer {
     padding: 10px;
     margin-top: 20px;
 }
+    margin-top: 20px;
+}
